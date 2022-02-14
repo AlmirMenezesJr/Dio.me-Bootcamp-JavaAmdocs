@@ -1,0 +1,3 @@
+link para download do github:
+https://desktop.github.com/
+O GitBash é o terminal utilizado para aprimorar a experiência de interação com o git.
